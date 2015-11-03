@@ -1,2 +1,0 @@
-# Veterinary
-#Initial Project
